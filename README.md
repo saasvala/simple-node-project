@@ -1,2 +1,1 @@
-# simple-node-project
-A simple Node.js project for demonstration purposes.
+# Simple Node Project\n\n## Description\nA simple Node.js project using Express framework.\n\n## Run Instructions\n1. Clone the repository.\n2. Run `npm install` to install dependencies.\n3. Start the server with `npm start`.\n4. Access the application at `http://localhost:3000`.\n
