@@ -1,1 +1,14 @@
-# Simple Node Project\n\n## Description\nA simple Node.js project using Express framework.\n\n## Run Instructions\n1. Clone the repository.\n2. Run `npm install` to install dependencies.\n3. Start the server with `npm start`.\n4. Access the application at `http://localhost:3000`.\n
+# Simple Node Project
+
+This is a simple Node.js project using Express.
+
+## Run Instructions
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the application:
+   ```bash
+   npm start
+   ```
